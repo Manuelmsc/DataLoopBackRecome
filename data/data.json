@@ -1,0 +1,28 @@
+{
+  "ids": {
+    "Estudios": 12,
+    "Notamedica": 6,
+    "Receta": 8,
+    "Usuario": 5
+  },
+  "models": {
+    "Estudios": {
+      "2": "{\"nombrepaciente\":\"Jesus Manuel Ornelas \",\"nombremedico\":\"jaime eliazar Esparza \",\"descripcion\":\"paciente pie cabo\",\"diagnostico\":\"pie cabo\",\"idestudio\":2}",
+      "3": "{\"nombrepaciente\":\"Manuel Alejandro Ortega magdaleno \",\"nombremedico\":\"Eliazar Pérez u\",\"descripcion\":\" Hb, tp, tpt \",\"diagnostico\":\"Franctuta pues cabo \",\"idestudio\":3}",
+      "8": "{\"nombrepaciente\":\"Mariana Ortiz Ávila Sánchez \",\"nombremedico\":\"Alejandro Numa cordova \",\"descripcion\":\"Pues cabo izquierdo \",\"diagnostico\":\"Pie lateral izquierdo \",\"idestudio\":8}"
+    },
+    "Notamedica": {
+      "2": "{\"idNota\":2,\"nombrepaciente\":\"manuel alejandro Ortega magdaleno \",\"nombremedico\":\"Eliazar Esparza \",\"frcuenciacardiaca\":\"100\",\"frecuenciarespiratoria\":\"29\",\"talla\":70,\"peso\":80,\"temperatura\":36,\"diagnostico\":\"Calentura caliente \"}",
+      "3": "{\"nombrepaciente\":\"sergio de jesus ortiz\",\"nombremedico\":\"eliazar \",\"frcuenciacardiaca\":\"110\",\"frecuenciarespiratoria\":\"80\",\"talla\":100,\"peso\":100,\"temperatura\":320,\"diagnostico\":\"estres y ansiedad tipo 2\",\"idNota\":3}",
+      "5": "{\"nombrepaciente\":\"Jesus Magdaleno Ramirez \",\"nombremedico\":\"Alejandro Numa Cordova \",\"frcuenciacardiaca\":\"100\",\"frecuenciarespiratoria\":\"26\",\"talla\":90,\"peso\":100,\"temperatura\":36,\"diagnostico\":\"Colesterol \",\"idNota\":5}"
+    },
+    "Receta": {
+      "2": "{\"nombrepaciente\":\"israel de Jesús Orozco \",\"nombremedico\":\"eliazar Esparza r\",\"descripcionmedica\":\"pie cabo con calentura\",\"diagnostico\":\"pie cabo, fractura\",\"idReceta\":2}",
+      "4": "{\"nombrepaciente\":\"Alejandro Ortega magdaleno \",\"nombremedico\":\"Eliazar Esparza \",\"descripcionmedica\":\"Epilepsia tipo ii\",\"diagnostico\":\"Paracetamol, clonacepam \",\"idReceta\":4}"
+    },
+    "Usuario": {
+      "1": "{\"nombre\":\"Manuel\",\"contrasena\":\"1234\",\"idUsuario\":1}",
+      "4": "{\"nombre\":\"Josa\",\"contrasena\":\"1234\",\"idUsuario\":4}"
+    }
+  }
+}
